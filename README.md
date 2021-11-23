@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 ```
 
-After making the necessary imports, we load data on Google past stock prices.
+After making the necessary imports, we load data on State Bank of India past stock prices.
 
 ```bash
 state_bank=pd.read_csv('SBIN.NS.csv')
